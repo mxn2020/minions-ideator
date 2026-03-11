@@ -6,3 +6,4 @@ description: CLI for minions-ideator — Agent to help brainstorm ideas and plan
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
