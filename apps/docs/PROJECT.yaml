@@ -1,0 +1,8 @@
+name: "@minions-ideator/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-ideator-workspace
+description: "Standard compliance definition for @minions-ideator/docs"
+priority: high
+deploy_url: null
+tags: null

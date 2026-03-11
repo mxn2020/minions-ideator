@@ -1,0 +1,8 @@
+name: "@minions-ideator/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-ideator-workspace
+description: CLI for minions-ideator — Agent to help brainstorm ideas and plan features
+priority: high
+deploy_url: null
+tags: null

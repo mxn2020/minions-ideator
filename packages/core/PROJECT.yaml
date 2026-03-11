@@ -1,0 +1,8 @@
+name: "@minions-ideator/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-ideator-workspace
+description: Agent to help brainstorm ideas and plan features
+priority: high
+deploy_url: null
+tags: null
