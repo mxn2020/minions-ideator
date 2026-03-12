@@ -1,0 +1,16 @@
+name: minions-ideator-workspace
+project_scope: main
+project_type: monorepo
+description: Agent to help brainstorm ideas and plan features
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-ideator"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-ideator-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
